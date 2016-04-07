@@ -1,0 +1,24 @@
+/* Inserta tu CSS aqui */
+.roja{
+	background-color: #0040FF;
+	width: 100px;
+	height: 100px;
+	position: static;
+}
+.morada{
+	background-color: #21610B;
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	clear: left;
+	margin: 25px;
+	}
+
+.amarillo{
+	background-color: #000000;
+	width: 25px;
+	height: 25px;
+	position: relative;
+	margin-left: -25px;
+	margin-top: -25px;
+}
